@@ -4,7 +4,7 @@
 <br />
 <ol>
 <li><a href="#usage">Create a bucket on S3: s3_buckets.jpg</a></li>
- ![https://github.com/sowntt/Static-Website-on-AWS/blob/main/s3_buckets.jpg]
+ [./s3_buckets.jpg]
 <li><a href="#roadmap">Create distributions on CloudFront: cloud_front.jpg</a></li>
 <li><a href="#contributing">Upload project to S3: s3_buckets_detail_upload.jpg</a></li>
 <li><a href="#license">Update bucket policy: s3_buckets_detail_policy.jpg</a></li>
