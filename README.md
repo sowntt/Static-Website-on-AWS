@@ -3,16 +3,32 @@
 <p>According to the instructions, I have attached photos recording information during the process of deploying static website on AWS including:</p>
 <br />
 <ol>
-<li><a href="#usage">Create a bucket on S3: s3_buckets.jpg</a></li>
- `![Image Alt Text](./s3_buckets.jpg)`
-<li><a href="#roadmap">Create distributions on CloudFront: cloud_front.jpg</a></li>
-<li><a href="#contributing">Upload project to S3: s3_buckets_detail_upload.jpg</a></li>
-<li><a href="#license">Update bucket policy: s3_buckets_detail_policy.jpg</a></li>
-<li><a href="#contact">Update static website hosting: s3_buckets_detail_static_web_hosting.jpg</a></li>
-<li><a href="#acknowledgments">Update static website hosting: s3_buckets_detail_static_web_hosting2.jpg</a></li>
+<li>Create a bucket on S3</li>
+ 
+ ![Create a bucket on S3](./s3_buckets.jpg)
+ 
+<li>Create distributions on CloudFront</li>
+
+ ![Create distributions on CloudFront](./cloud_front.jpg)
+ 
+<li>Upload project to S3</li>
+
+ ![Upload project to S3](./s3_buckets_detail_upload.jpg)
+ 
+<li>Update bucket policy</li>
+
+![Update bucket policy](./s3_buckets_detail_policy.jpg)
+
+<li>Update static website hosting</li>
+
+![Update static website hosting](./s3_buckets_detail_static_web_hosting.jpg)
+
+<li>Update static website hosting</li>
+
+![Update static website hosting](./s3_buckets_detail_static_web_hosting2.jpg)
+
 </ol>
  
-  ![Image Alt Text](./s3_buckets.jpg)
 
 * CloudFront domain name url at [http://my-755560698685-bucket.s3-website-us-east-1.amazonaws.com](http://my-755560698685-bucket.s3-website-us-east-1.amazonaws.com)
 
