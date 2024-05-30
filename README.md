@@ -4,28 +4,28 @@
 <br />
 <ol>
 <li>Create a bucket on S3</li>
- 
+<br />
  ![Create a bucket on S3](./s3_buckets.jpg)
  
 <li>Create distributions on CloudFront</li>
-
+<br />
  ![Create distributions on CloudFront](./cloud_front.jpg)
  
 <li>Upload project to S3</li>
-
+<br />
  ![Upload project to S3](./s3_buckets_detail_upload.jpg)
  
 <li>Update bucket policy</li>
-
+<br />
 ![Update bucket policy](./s3_buckets_detail_policy.jpg)
 
 <li>Update static website hosting</li>
-
+<br />
 ![Update static website hosting](./s3_buckets_detail_static_web_hosting.jpg)
 
 <li>Update static website hosting</li>
-
-![Update static website hosting](./s3_buckets_detail_static_web_hosting2.jpg)
+<br />
+![Update static website hosting](./s3_buckets_detail_static_web_hosting_2.jpg)
 
 </ol>
  
