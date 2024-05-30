@@ -12,7 +12,7 @@
 <li><a href="#acknowledgments">Update static website hosting: s3_buckets_detail_static_web_hosting2.jpg</a></li>
 </ol>
  
- 
+  ![Image Alt Text](./s3_buckets.jpg)
 
 * CloudFront domain name url at [http://my-755560698685-bucket.s3-website-us-east-1.amazonaws.com](http://my-755560698685-bucket.s3-website-us-east-1.amazonaws.com)
 
