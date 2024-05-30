@@ -13,14 +13,9 @@
  
  
 
-* CloudFront domain name url
-  ```sh
-  http://my-755560698685-bucket.s3-website-us-east-1.amazonaws.com
-  ```
+* CloudFront domain name url at [http://my-755560698685-bucket.s3-website-us-east-1.amazonaws.com](http://my-755560698685-bucket.s3-website-us-east-1.amazonaws.com)
 
-* Website endpoint url
-  ```sh
-  http://my-755560698685-bucket.s3-website-region.amazonaws.com
-  ```
+* Website endpoint url at [http://my-755560698685-bucket.s3-website-region.amazonaws.com](http://my-755560698685-bucket.s3-website-region.amazonaws.com)
+
 
 Please rate it and give me feedback. If there is any information that needs to be changed, I will update and send it back to you. Thank you!
